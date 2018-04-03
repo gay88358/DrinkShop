@@ -2,9 +2,11 @@
 
 DrinkShop
 
-Develop with C++
-Using unit test to test whole program
-Using Observer Pattern and Factory Pattern and Template Method Patter
+.Develop with C++
+
+.Using unit test to test whole program
+
+.Using Observer Pattern and Factory Pattern and Template Method Patter
 
 
 1. add new drink to the menu
